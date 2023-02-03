@@ -1,0 +1,14 @@
+ALGORITHM:
+
+1. Import all the necssary libraries.
+2. Download the twitter data.
+3. Load the data into pandas.DataFrame object.
+4. Cleanse the data by removing userhandles.
+5. Remove all the hashtags.
+6. Convert all the tweets into WordVectors.
+7. Split the data into test data and validation data.
+8. Train the model using Descision Tree Classifier.
+9. Evaluvate the model with F1 scores.
+10. Plot the confusion matrix in a heatmap.
+11. Display the classification.
+
